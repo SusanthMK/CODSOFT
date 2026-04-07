@@ -54,6 +54,7 @@ A predictive analytics model to identify customers likely to leave a service.
 
 
 ## 📁 Repository Structure
+'''
 CODSOFT/
 ├── Spam_SMS_Detection/
 │ ├── spam_model.ipynb
@@ -71,7 +72,7 @@ CODSOFT/
 │ ├── Confusion_Matrix.png
 │ ├── ROC.png
 │ └── TopFeature.png
-
+'''
 
 
 ## 📊 Visual Outputs
